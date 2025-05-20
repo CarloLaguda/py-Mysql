@@ -1,0 +1,63 @@
+[
+  {
+    "Name": "bulbasaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Evolution": "ivysaur",
+    "Immages": ""
+  },
+  {
+    "Name": "ivysaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Evolution": "venusaur"
+  },
+  {
+    "Name": "venusaur",
+    "Type1": "Grass",
+    "Type2": "Poison",
+    "Evolution": ""
+  },
+  {
+    "Name": "charmander",
+    "Type1": "Fire",
+    "Type2": "",
+    "Evolution": "charmeleon"
+  },
+  {
+    "Name": "charmeleon",
+    "Type1": "Fire",
+    "Type2": "",
+    "Evolution": "charizard"
+  },
+  {
+    "Name": "charizard",
+    "Type1": "Fire",
+    "Type2": "Flying",
+    "Evolution": ""
+  },
+  {
+    "Name": "squirtle",
+    "Type1": "Water",
+    "Type2": "",
+    "Evolution": "wartortle"
+  },
+  {
+    "Name": "wartortle",
+    "Type1": "Water",
+    "Type2": "",
+    "Evolution": "blastoise"
+  },
+  {
+    "Name": "blastoise",
+    "Type1": "Water",
+    "Type2": "",
+    "Evolution": ""
+  },
+  {
+    "Name": "caterpie",
+    "Type1": "Bug",
+    "Type2": "",
+    "Evolution": "metapod"
+  }
+]

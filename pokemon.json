@@ -1,63 +1,84 @@
-[
-  {
-    "Name": "bulbasaur",
-    "Type1": "Grass",
-    "Type2": "Poison",
-    "Evolution": "ivysaur",
-    "Immages": ""
-  },
-  {
-    "Name": "ivysaur",
-    "Type1": "Grass",
-    "Type2": "Poison",
-    "Evolution": "venusaur"
-  },
-  {
-    "Name": "venusaur",
-    "Type1": "Grass",
-    "Type2": "Poison",
-    "Evolution": ""
-  },
-  {
-    "Name": "charmander",
-    "Type1": "Fire",
-    "Type2": "",
-    "Evolution": "charmeleon"
-  },
-  {
-    "Name": "charmeleon",
-    "Type1": "Fire",
-    "Type2": "",
-    "Evolution": "charizard"
-  },
-  {
-    "Name": "charizard",
-    "Type1": "Fire",
-    "Type2": "Flying",
-    "Evolution": ""
-  },
-  {
-    "Name": "squirtle",
-    "Type1": "Water",
-    "Type2": "",
-    "Evolution": "wartortle"
-  },
-  {
-    "Name": "wartortle",
-    "Type1": "Water",
-    "Type2": "",
-    "Evolution": "blastoise"
-  },
-  {
-    "Name": "blastoise",
-    "Type1": "Water",
-    "Type2": "",
-    "Evolution": ""
-  },
-  {
-    "Name": "caterpie",
-    "Type1": "Bug",
-    "Type2": "",
-    "Evolution": "metapod"
-  }
-]
+{
+  "pokemon": [
+    {
+      "id" : 1,
+      "Name": "bulbasaur",
+      "Type1": "Grass",
+      "Type2": "Poison",
+      "Evolution": "ivysaur",
+      "Immages": "https://upload.wikimedia.org/wikipedia/it/thumb/4/43/Bulbasaur.png/330px-Bulbasaur.png"
+    },
+    {
+      "id" : 2,
+      "Name": "ivysaur",
+      "Type1": "Grass",
+      "Type2": "Poison",
+      "Evolution": "venusaur",
+      "Immages": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+      "id" : 3,
+      "Name": "venusaur",
+      "Type1": "Grass",
+      "Type2": "Poison",
+      "Evolution": "",
+      "Immages": "https://upload.wikimedia.org/wikipedia/it/b/be/Venusaur.png"
+    },
+    {
+      "id" : 4,
+      "Name": "charmander",
+      "Type1": "Fire",
+      "Type2": "",
+      "Evolution": "charmeleon",
+      "Immages": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+      "id" : 5,
+      "Name": "charmeleon",
+      "Type1": "Fire",
+      "Type2": "",
+      "Evolution": "charizard",
+      "Immages": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png"
+    },
+    {
+      "id" : 6,
+      "Name": "charizard",
+      "Type1": "Fire",
+      "Type2": "Flying",
+      "Evolution": "",
+      "Immages": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
+    },
+    {
+      "id" : 7,
+      "Name": "squirtle",
+      "Type1": "Water",
+      "Type2": "",
+      "Evolution": "wartortle",
+      "Immages": "https://upload.wikimedia.org/wikipedia/it/e/e3/Squirtle.png"
+    },
+    {
+      "id" : 8,
+      "Name": "wartortle",
+      "Type1": "Water",
+      "Type2": "",
+      "Evolution": "blastoise",
+      "Immages": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
+    },
+    {
+      "id" : 9,
+      "Name": "blastoise",
+      "Type1": "Water",
+      "Type2": "",
+      "Evolution": "",
+      "Immages": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png"
+    },
+    {
+      "id" : 10,
+      "Name": "caterpie",
+      "Type1": "Bug",
+      "Type2": "",
+      "Evolution": "metapod",
+      "Immages": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/010.png"
+    }
+  ]
+}
